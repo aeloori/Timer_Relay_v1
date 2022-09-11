@@ -12,9 +12,10 @@ time intervels that to be used for controlling the relay are mentioned below :-
 ************************************************************************************************************
 Pin connections
 ***************
-setPin - 13 (push button)
-relayPin - 11 (relay)
-modePin - 12  (push button)
+
+* relayPin - 11 (relay)
+* setPin - 13 (push button)
+* modePin - 12  (push button)
 
 Specification of this project 
 ****************************
