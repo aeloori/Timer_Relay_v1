@@ -10,6 +10,11 @@ time intervels that to be used for controlling the relay are mentioned below :-
 * 120 mins of time intervel
 
 ************************************************************************************************************
+Pin connections
+***************
+setPin - 13 (push button)
+relayPin - 11 (relay)
+modePin - 12  (push button)
 
 Specification of this project 
 ****************************
